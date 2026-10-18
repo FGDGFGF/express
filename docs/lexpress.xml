@@ -5,7 +5,7 @@
     <link>https://lexpress.mu</link>
     <description>Unofficial feed generated from lexpress.mu</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 17 Oct 2026 23:49:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 03:33:10 +0000</lastBuildDate>
     <item>
       <title>Des troubles à la barre, cinq hommes face à la prison</title>
       <link>https://lexpress.mu/s/des-troubles-a-la-barre-cinq-hommes-face-a-la-prison-563735</link>
@@ -13,6 +13,14 @@
       <pubDate>Sat, 17 Oct 2026 16:53:37 +0000</pubDate>
       <category>Tensions à travers l’île</category>
       <description>&lt;p&gt;Tensions à travers l’île&lt;/p&gt;&lt;img src="https://lexpress.mu/storage/articles/1qRPFH4fSkOmoesF4Ec9xkMOJOgyqsW5qdxSWEsI.jpg" alt=""&gt;</description>
+    </item>
+    <item>
+      <title>La passion du terroir italien au service des chefs</title>
+      <link>https://lexpress.mu/s/la-passion-du-terroir-italien-au-service-des-chefs-563733</link>
+      <guid isPermaLink="true">https://lexpress.mu/s/la-passion-du-terroir-italien-au-service-des-chefs-563733</guid>
+      <pubDate>Sun, 18 Oct 2026 03:33:10 +0000</pubDate>
+      <category>Le chef Fabio de Poli, directeur de Terra Gusto Food LTD</category>
+      <description>&lt;p&gt;Le chef Fabio de Poli, directeur de Terra Gusto Food LTD&lt;/p&gt;&lt;img src="https://lexpress.mu/storage/articles/bJmJGAdt4rnumJoTxR6XyqQIrTmA1yr2jskB20xb.jpg" alt=""&gt;</description>
     </item>
     <item>
       <title>VTT - Ciel Fundsmith Colin Mayer tour (1ᵉ̀ʳᵉ étape)</title>
@@ -797,14 +805,6 @@
       <pubDate>Wed, 14 Oct 2026 14:38:13 +0000</pubDate>
       <category>Éclairage</category>
       <description>&lt;p&gt;Éclairage&lt;/p&gt;&lt;img src="https://lexpress.mu/storage/articles/18Iy6KwbzAVe30ktvRb9Bi5qo2Qza8lS8K6TeCrj.jpg" alt=""&gt;</description>
-    </item>
-    <item>
-      <title>93 arrestations, dont 15 mineurs</title>
-      <link>https://lexpress.mu/s/93-arrestations-dont-15-mineurs-563600</link>
-      <guid isPermaLink="true">https://lexpress.mu/s/93-arrestations-dont-15-mineurs-563600</guid>
-      <pubDate>Wed, 14 Oct 2026 09:26:32 +0000</pubDate>
-      <category>Incidents pendant le couvre-feu</category>
-      <description>&lt;p&gt;Incidents pendant le couvre-feu&lt;/p&gt;&lt;img src="https://lexpress.mu/storage/articles/hNTx0QOHPaCYoK0T8SW6YrLFKtAo52hmGozrEd3p.jpg" alt=""&gt;</description>
     </item>
   </channel>
 </rss>

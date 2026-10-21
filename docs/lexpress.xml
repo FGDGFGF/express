@@ -5,7 +5,7 @@
     <link>https://lexpress.mu</link>
     <description>Unofficial feed generated from lexpress.mu</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 21 Oct 2026 17:33:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 21:22:27 +0000</lastBuildDate>
     <item>
       <title>Championnats d’Afrique de cyclisme</title>
       <link>https://lexpress.mu/s/tristan-hardy-et-alexandre-mayer-sacres-en-contre-la-montre-563908</link>
@@ -149,6 +149,14 @@
       <pubDate>Wed, 21 Oct 2026 12:15:56 +0000</pubDate>
       <category>Vidéo impliquant une fillette de 6 ans</category>
       <description>&lt;p&gt;Vidéo impliquant une fillette de 6 ans&lt;/p&gt;&lt;img src="https://lexpress.mu/storage/articles/ih6lfVnPwIfp9SkmfaqRoDIlcpnIJYRifEI37zR8.jpg" alt=""&gt;</description>
+    </item>
+    <item>
+      <title>Law and order</title>
+      <link>https://lexpress.mu/s/the-scars-of-unrest-three-generations-remember-563882</link>
+      <guid isPermaLink="true">https://lexpress.mu/s/the-scars-of-unrest-three-generations-remember-563882</guid>
+      <pubDate>Wed, 21 Oct 2026 21:22:27 +0000</pubDate>
+      <category>The scars of unrest: three generations remember</category>
+      <description>&lt;p&gt;The scars of unrest: three generations remember&lt;/p&gt;&lt;img src="https://lexpress.mu/storage/articles/QQ3Vx1ugo3slOpvb2sfGOeqjGAW0Bykx0ynQlSgo.jpg" alt=""&gt;</description>
     </item>
     <item>
       <title>Petites et moyennes entreprises</title>
@@ -797,14 +805,6 @@
       <pubDate>Mon, 19 Oct 2026 10:09:46 +0000</pubDate>
       <category>Tensions à travers le pays</category>
       <description>&lt;p&gt;Tensions à travers le pays&lt;/p&gt;&lt;img src="https://lexpress.mu/storage/articles/GmmZqD2L1UhKxPyh45b3kUNbE3q0Dt7qLrGWrFUp.jpg" alt=""&gt;</description>
-    </item>
-    <item>
-      <title>Couvre-feu : une nuit au rythme des barrages policiers</title>
-      <link>https://lexpress.mu/s/couvre-feu-une-nuit-au-rythme-des-barrages-policiers-563770</link>
-      <guid isPermaLink="true">https://lexpress.mu/s/couvre-feu-une-nuit-au-rythme-des-barrages-policiers-563770</guid>
-      <pubDate>Mon, 19 Oct 2026 10:09:46 +0000</pubDate>
-      <category>Tensions à travers l’île</category>
-      <description>&lt;p&gt;Tensions à travers l’île&lt;/p&gt;&lt;img src="https://lexpress.mu/storage/articles/HPZRLYDfuCJrTkC2dUHt80aJgRywTrayMoTupL3q.jpg" alt=""&gt;</description>
     </item>
   </channel>
 </rss>

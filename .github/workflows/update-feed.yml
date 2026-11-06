@@ -8,13 +8,18 @@ on:
 permissions:
   contents: write
 
+# Never let two runs try to save at the same time
+concurrency:
+  group: lexpress-feed
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -22,9 +27,18 @@ jobs:
       - name: Build feed
         run: python scrape.py
 
+      # Retries the save a few times so a passing GitHub hiccup doesn't fail the run
       - name: Commit feed if changed
         run: |
           git config user.name "feed-bot"
           git config user.email "feed-bot@users.noreply.github.com"
           git add docs/lexpress.xml
-          git diff --cached --quiet || (git commit -m "Update feed" && git push)
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "Update feed"
+          for i in 1 2 3 4; do
+            if git push; then exit 0; fi
+            echo "Push failed (attempt $i), retrying…"
+            sleep $((i * 15))
+            git pull --rebase -X theirs || { git rebase --abort; git reset --hard origin/main; python scrape.py; git add docs/lexpress.xml; git commit -m "Update feed" || exit 0; }
+          done
+          echo "Could not save the feed after 4 attempts"; exit 1

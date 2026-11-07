@@ -5,7 +5,15 @@
     <link>https://lexpress.mu</link>
     <description>Unofficial feed generated from lexpress.mu</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 06 Nov 2026 23:47:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 05:04:09 +0000</lastBuildDate>
+    <item>
+      <title>Les grands titres de l'express de ce samedi 7 novembre 2026</title>
+      <link>https://lexpress.mu/s/les-grands-titres-de-lexpress-de-ce-samedi-7-novembre-2026-564463</link>
+      <guid isPermaLink="true">https://lexpress.mu/s/les-grands-titres-de-lexpress-de-ce-samedi-7-novembre-2026-564463</guid>
+      <pubDate>Sat, 07 Nov 2026 05:04:09 +0000</pubDate>
+      <category>En couverture</category>
+      <description>&lt;p&gt;En couverture&lt;/p&gt;&lt;img src="https://lexpress.mu/storage/articles/ySzQy2iuXZhPda0v2wm9ln1q9A7fySUGQ4i34fKu.jpg" alt=""&gt;</description>
+    </item>
     <item>
       <title>Le CEB anticipe une hausse de la demande à l’approche des fêtes</title>
       <link>https://lexpress.mu/s/le-ceb-anticipe-une-hausse-de-la-demande-a-lapproche-des-fetes-564460</link>
@@ -797,14 +805,6 @@
       <pubDate>Mon, 02 Nov 2026 22:26:05 +0000</pubDate>
       <category>Dean Bhoobun, des ciseaux à la main et une passion en fil conducteur</category>
       <description>&lt;p&gt;Dean Bhoobun, des ciseaux à la main et une passion en fil conducteur&lt;/p&gt;&lt;img src="https://lexpress.mu/storage/articles/7G8ruoARQ9QrqHpWkeVVdWeMFduHSZvWMErvSyd2.jpg" alt=""&gt;</description>
-    </item>
-    <item>
-      <title>Flic-en-Flac</title>
-      <link>https://lexpress.mu/s/cinq-hommes-attaquent-un-etudiant-ougandais-a-coups-de-sabre-564326</link>
-      <guid isPermaLink="true">https://lexpress.mu/s/cinq-hommes-attaquent-un-etudiant-ougandais-a-coups-de-sabre-564326</guid>
-      <pubDate>Mon, 02 Nov 2026 13:15:39 +0000</pubDate>
-      <category>Cinq hommes attaquent un étudiant ougandais à coups de sabre</category>
-      <description>&lt;p&gt;Cinq hommes attaquent un étudiant ougandais à coups de sabre&lt;/p&gt;&lt;img src="https://lexpress.mu/storage/articles/k2KH2yJ0cUMgHXWdpyoBeOogF6ShyAQBkF4vQW45.jpg" alt=""&gt;</description>
     </item>
   </channel>
 </rss>

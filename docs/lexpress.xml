@@ -5,7 +5,15 @@
     <link>https://lexpress.mu</link>
     <description>Unofficial feed generated from lexpress.mu</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 19 Nov 2026 18:01:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:48:24 +0000</lastBuildDate>
+    <item>
+      <title>Cryptomonnaies, un univers à comprendre avant de se lancer</title>
+      <link>https://lexpress.mu/s/cryptomonnaies-un-univers-a-comprendre-avant-de-se-lancer-564927</link>
+      <guid isPermaLink="true">https://lexpress.mu/s/cryptomonnaies-un-univers-a-comprendre-avant-de-se-lancer-564927</guid>
+      <pubDate>Fri, 20 Nov 2026 00:48:24 +0000</pubDate>
+      <category>Entretien avec le Dr Jean Lou Kwet Ng</category>
+      <description>&lt;p&gt;Entretien avec le Dr Jean Lou Kwet Ng&lt;/p&gt;&lt;img src="https://lexpress.mu/storage/articles/5irPja36VgZIfxXZ6bOsRFybuQRAeCYuURPEVwB4.jpg" alt=""&gt;</description>
+    </item>
     <item>
       <title>Nandish Canhea, 25 ans, porté disparu</title>
       <link>https://lexpress.mu/s/nandish-canhea-25-ans-porte-disparu-564926</link>
@@ -797,14 +805,6 @@
       <pubDate>Mon, 16 Nov 2026 07:43:10 +0000</pubDate>
       <category>Pamplemousses</category>
       <description>&lt;p&gt;Pamplemousses&lt;/p&gt;&lt;img src="https://lexpress.mu/storage/articles/02YSTLQcVhOX5D94byWBBRFfBfGtnuFA25EFpFl0.jpg" alt=""&gt;</description>
-    </item>
-    <item>
-      <title>Plumes engagées</title>
-      <link>https://lexpress.mu/s/broken-in-the-dark-564782</link>
-      <guid isPermaLink="true">https://lexpress.mu/s/broken-in-the-dark-564782</guid>
-      <pubDate>Mon, 16 Nov 2026 07:43:10 +0000</pubDate>
-      <category>Broken in the dark</category>
-      <description>&lt;p&gt;Broken in the dark&lt;/p&gt;&lt;img src="https://lexpress.mu/storage/articles/Iqi3rARMwHEpk8rzWoLgllZOW4RBbyJJ1LIg9Mh7.jpg" alt=""&gt;</description>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,15 @@
     <link>https://lexpress.mu</link>
     <description>Unofficial feed generated from lexpress.mu</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 20 Nov 2026 23:16:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 04:10:20 +0000</lastBuildDate>
+    <item>
+      <title>Les grands titres de l'express de ce samedi 21 novembre 2026</title>
+      <link>https://lexpress.mu/s/les-grands-titres-de-lexpress-de-ce-samedi-21-novembre-2026-564969</link>
+      <guid isPermaLink="true">https://lexpress.mu/s/les-grands-titres-de-lexpress-de-ce-samedi-21-novembre-2026-564969</guid>
+      <pubDate>Sat, 21 Nov 2026 04:10:20 +0000</pubDate>
+      <category>En couverture</category>
+      <description>&lt;p&gt;En couverture&lt;/p&gt;&lt;img src="https://lexpress.mu/storage/articles/DMSbIO5dqXCI9ocP4IvFC0ns1fd6en7YE49nE6To.jpg" alt=""&gt;</description>
+    </item>
     <item>
       <title>Conseil des ministres</title>
       <link>https://lexpress.mu/s/collectivites-locales-les-conseils-de-district-assurent-la-continuite-apres-la-dissolution-des-conseils-de-village-564968</link>
@@ -245,6 +253,14 @@
       <pubDate>Thu, 19 Nov 2026 18:01:27 +0000</pubDate>
       <category>Un marchand de voitures de Goodlands et son épouse arrêtés</category>
       <description>&lt;p&gt;Un marchand de voitures de Goodlands et son épouse arrêtés&lt;/p&gt;&lt;img src="https://lexpress.mu/storage/articles/GDBi5lmLRowhO4JVFsR7KOsrDX3n4OcBkw24zCuX.jpg" alt=""&gt;</description>
+    </item>
+    <item>
+      <title>Chèque sans provision</title>
+      <link>https://lexpress.mu/s/un-vendeur-de-voitures-de-goodlands-et-son-epouse-arretes-564921</link>
+      <guid isPermaLink="true">https://lexpress.mu/s/un-vendeur-de-voitures-de-goodlands-et-son-epouse-arretes-564921</guid>
+      <pubDate>Sat, 21 Nov 2026 04:10:20 +0000</pubDate>
+      <category>Un vendeur de voitures de Goodlands et son épouse arrêtés</category>
+      <description>&lt;p&gt;Un vendeur de voitures de Goodlands et son épouse arrêtés&lt;/p&gt;&lt;img src="https://lexpress.mu/storage/articles/GDBi5lmLRowhO4JVFsR7KOsrDX3n4OcBkw24zCuX.jpg" alt=""&gt;</description>
     </item>
     <item>
       <title>Absence de subventions aux clubs de football féminin</title>
@@ -789,22 +805,6 @@
       <pubDate>Tue, 17 Nov 2026 10:30:07 +0000</pubDate>
       <category>Rose-Hill</category>
       <description>&lt;p&gt;Rose-Hill&lt;/p&gt;&lt;img src="https://lexpress.mu/storage/articles/P7ckqsxYr4LzJ4wXDY7oYGlhG5M16syMl4xCHmQr.jpg" alt=""&gt;</description>
-    </item>
-    <item>
-      <title>Consommation</title>
-      <link>https://lexpress.mu/s/fetes-de-fin-dannee-les-commercants-pris-en-etau-564823</link>
-      <guid isPermaLink="true">https://lexpress.mu/s/fetes-de-fin-dannee-les-commercants-pris-en-etau-564823</guid>
-      <pubDate>Tue, 17 Nov 2026 19:19:16 +0000</pubDate>
-      <category>Fêtes de fin d’année : les commerçants pris en étau</category>
-      <description>&lt;p&gt;Fêtes de fin d’année : les commerçants pris en étau&lt;/p&gt;&lt;img src="https://lexpress.mu/storage/articles/sug7VEWdUxTcWRuLXAx3kTaXIHgY3hrJtWEFKBwe.jpg" alt=""&gt;</description>
-    </item>
-    <item>
-      <title>Rodrigues</title>
-      <link>https://lexpress.mu/s/jean-patrick-nancy-il-est-urgent-de-securiser-lacces-a-la-reserve-de-grande-montagne-564822</link>
-      <guid isPermaLink="true">https://lexpress.mu/s/jean-patrick-nancy-il-est-urgent-de-securiser-lacces-a-la-reserve-de-grande-montagne-564822</guid>
-      <pubDate>Tue, 17 Nov 2026 19:19:16 +0000</pubDate>
-      <category>Jean Patrick Nancy : «Il est urgent de sécuriser l’accès à la réserve de Grande-Montagne»</category>
-      <description>&lt;p&gt;Jean Patrick Nancy : «Il est urgent de sécuriser l’accès à la réserve de Grande-Montagne»&lt;/p&gt;&lt;img src="https://lexpress.mu/storage/articles/kPSVCzjYJ4e81e8tXcDWVA3aVExhSIJYcQ0yuiB6.jpg" alt=""&gt;</description>
     </item>
   </channel>
 </rss>
